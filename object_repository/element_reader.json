@@ -1,0 +1,19 @@
+{
+        "home":{
+            "class" : "test"
+        },
+        "username":{
+            "id" : "username"
+        },
+        "password":{
+            "id" : "login"
+        },
+        "login":{
+            "xpath" : "//html/body/div[2]/div/div[2]/div/div/div/div/div[1]/form/div[3]/div[1]/button"
+        },
+        "message":{
+            "id" : "ancOpenMsg"
+        }
+
+        
+}

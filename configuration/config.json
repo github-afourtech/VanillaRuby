@@ -1,0 +1,6 @@
+{
+  "browser":"firefox",
+  "wait": 40,
+  "url": "http://www.google.com"
+
+}
